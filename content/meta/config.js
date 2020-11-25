@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: "Atte Juvonen", // <title>
-  shortSiteTitle: "Atte Juvonen", // <title> ending for posts and pages
-  siteDescription: "Atte Juvonen",
-  siteUrl: "https://www.attejuvonen.fi",
+  siteTitle: "Patrick Williams", // <title>
+  shortSiteTitle: "Patrick Williams", // <title> ending for posts and pages
+  siteDescription: "Patrick Williams",
+  siteUrl: "https://pwmckenna.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Atte Juvonen",
+  authorName: "Patrick Williams",
   authorTwitterAccount: "",
-  authorGithub: "https://github.com/baobabkoodaa",
-  authorStackoverflow: "https://stackexchange.com/users/5678032/atte-juvonen?tab=accounts",
-  authorLinkedin: "https://linkedin.com/in/atte-juvonen-86b886113",
-  authorCodeforces: "https://codeforces.com/profile/baobab",
-  authorYoutube: "https://www.youtube.com/channel/UCfHqfHoSYL0V_fXA_JQkeLw?view_as=subscriber",
+  authorGithub: "https://github.com/pwmckenna",
+  authorStackoverflow: "",
+  authorLinkedin: "",
+  authorCodeforces: "",
+  authorYoutube: "",
 
   /* header text */
-  headerTitle: "atte juvonen",
+  headerTitle: "Patrick Williams",
   headerSubTitle: "",
 
   /* manifest.json */
-  manifestName: "Atte Juvonen",
-  manifestShortName: "atteJuvonen", // max 12 characters
+  manifestName: "Patrick Williams",
+  manifestShortName: "pwmckenna", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
